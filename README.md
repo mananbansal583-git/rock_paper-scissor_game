@@ -1,6 +1,13 @@
 # 🎮 Rock Paper Scissors Game
 
-A clean, interactive **Rock Paper Scissors game** built using **HTML, CSS, and JavaScript**. This project demonstrates core front-end development skills including DOM manipulation, event handling, game logic, and responsive UI design.
+An interactive **Rock Paper Scissors game** built using **HTML, CSS, and JavaScript**, featuring real-time gameplay, score tracking, and clean UI. This project demonstrates fundamental front-end development skills including DOM manipulation, event handling, and game logic implementation.
+
+---
+
+## 🚀 Live Demo
+
+👉 **Play here:**
+https://rock-paper-scissor-game-zeta-one.vercel.app/
 
 ---
 
@@ -8,11 +15,11 @@ A clean, interactive **Rock Paper Scissors game** built using **HTML, CSS, and J
 
 * Interactive user vs computer gameplay
 * Real-time result display
-* Random computer choice logic
+* Random computer choice generation
 * Score tracking system
-* Clean and responsive UI
 * Instant visual feedback
-* Beginner-friendly and optimized code structure
+* Clean and responsive UI
+* Optimized and readable code structure
 
 ---
 
@@ -21,6 +28,7 @@ A clean, interactive **Rock Paper Scissors game** built using **HTML, CSS, and J
 * **HTML5** → Structure
 * **CSS3** → Styling and layout
 * **JavaScript (Vanilla JS)** → Game logic and interactivity
+* **Vercel** → Deployment
 
 ---
 
@@ -30,9 +38,9 @@ A clean, interactive **Rock Paper Scissors game** built using **HTML, CSS, and J
 rock-paper-scissor_game/
 │
 ├── index.html      # Main HTML file
-├── style.css       # Styling
-├── app.js       # Game logic
-└── README.md       # Project documentation
+├── style.css      # Styling
+├── app.js         # Game logic
+└── README.md      # Project documentation
 ```
 
 ---
@@ -40,25 +48,27 @@ rock-paper-scissor_game/
 ## ⚙️ How It Works
 
 1. User selects Rock, Paper, or Scissors
-2. Computer generates random choice
-3. Game compares both choices
-4. Winner is decided based on standard rules:
-
-   * Rock beats Scissors
-   * Scissors beats Paper
-   * Paper beats Rock
-5. Score updates instantly
+2. Computer generates a random choice
+3. Winner is determined using standard game rules
+4. Result is displayed instantly
+5. Score updates dynamically
 
 ---
 
 ## 🧠 Concepts Practiced
 
 * DOM manipulation
-* Event listeners
+* Event handling
 * Conditional logic
 * Random number generation
-* Clean code structure
-* UI feedback handling
+* State management
+* Clean UI updates
+
+---
+
+## 🌐 Deployment
+
+This project is deployed using **Vercel** for fast and reliable hosting.
 
 ---
 
@@ -66,10 +76,10 @@ rock-paper-scissor_game/
 
 **Manan Bansal**
 
-* GitHub: https://github.com/mananbansal583-git
+GitHub: https://github.com/mananbansal583-git
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a star ⭐ and follow for more projects.
+If you found this project useful, consider giving it a star ⭐
