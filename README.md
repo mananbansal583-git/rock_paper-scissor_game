@@ -4,13 +4,6 @@ A clean, interactive **Rock Paper Scissors game** built using **HTML, CSS, and J
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://mananbansal583-git.github.io/rock-paper-scissor_game/
-*(Enable GitHub Pages to activate this link if not live yet)*
-
----
-
 ## 📌 Features
 
 * Interactive user vs computer gameplay
@@ -38,7 +31,7 @@ rock-paper-scissor_game/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling
-├── script.js       # Game logic
+├── app.js       # Game logic
 └── README.md       # Project documentation
 ```
 
@@ -66,16 +59,6 @@ rock-paper-scissor_game/
 * Random number generation
 * Clean code structure
 * UI feedback handling
-
----
-
-## 📈 Future Improvements
-
-* Add animations and transitions
-* Add sound effects
-* Add multiplayer mode
-* Add game history tracking
-* Improve UI/UX design
 
 ---
 
