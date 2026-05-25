@@ -76,7 +76,7 @@ This project is deployed using **Vercel** for fast and reliable hosting.
 
 **Manan Bansal**
 
-GitHub: https://github.com/mananbansal583-git
+GitHub: https://github.com/mananbdev
 
 ---
 
